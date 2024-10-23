@@ -1,7 +1,6 @@
 
 /**
 * Classe Cavalier permettant de trouver une solution au problème du cavalier
-* @author Adonis NAJIMI, Imene AMALOU S3B
 **/
 
 public class Cavalier {
